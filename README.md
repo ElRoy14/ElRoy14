@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElRoy14
 - 👀 I’m interested in web development and, app development
-- 🌱 I’m currently learning software development
+- 🌱 I’m currently learning GIT and wordpress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
