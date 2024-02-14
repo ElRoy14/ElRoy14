@@ -18,7 +18,7 @@
 
 Hello everyone!! 'Im a Backend developer, passionate about technology and creation, 
 always acquiring new knowledge,  i have been studying software development in an institutionalized and
-sef-taught way for more than two years, i like to collaborate with colleagues who share my desire to 
+self-taught way for more than two years, i like to collaborate with colleagues who share my desire to 
 improve and set myself new challenges to try my level.
 </div>
 <!--end about me -->
