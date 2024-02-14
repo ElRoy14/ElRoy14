@@ -41,7 +41,7 @@ improve and set myself new challenges to try my level.
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,hibernate,spring&perline=14" />
+    <img witdh=10 src="https://skillicons.dev/icons?i=java,maven,hibernate,spring&perline=14" />
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -54,6 +54,9 @@ improve and set myself new challenges to try my level.
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=14" />
+  </a>
+  <a>
+    <img width ="45" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -98,6 +101,7 @@ improve and set myself new challenges to try my level.
 <br>
 
 <div align='center'>
+
 
 <!--end connect -->
 
