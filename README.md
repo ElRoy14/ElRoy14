@@ -13,7 +13,7 @@
 <!--end animation--->
 
 <!--start about me --->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px ></picture> **About me**
+## <picture><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width = 50px ></picture> **About me**
 <div align="center">
 
 Hello everyone!! 'Im a Backend developer, passionate about technology and creation, 
