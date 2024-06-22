@@ -41,7 +41,7 @@ improve and set myself new challenges to try my level.
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img witdh=10 src="https://skillicons.dev/icons?i=java,maven,hibernate,spring&perline=14" />
+    <img witdh=10 src="https://skillicons.dev/icons?i=java&perline=14" />
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -49,7 +49,7 @@ improve and set myself new challenges to try my level.
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs&perline=14" />
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -60,7 +60,7 @@ improve and set myself new challenges to try my level.
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git&perline=14" />
   </a>
 </p>
 
