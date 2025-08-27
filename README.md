@@ -33,7 +33,7 @@ improve and set myself new challenges to try my level.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,obsidian,postman&perline=14" />
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -41,15 +41,11 @@ improve and set myself new challenges to try my level.
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img witdh=10 src="https://skillicons.dev/icons?i=java&perline=14" />
+    <img src="https://skillicons.dev/icons?i=tailwind&perline=14" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css&perline=14" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,angular&perline=14" />
   </a>
   <br>
   <a href="https://skillicons.dev">
